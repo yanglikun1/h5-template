@@ -1,6 +1,6 @@
-# welink-devtool-template
+# h5-template
 
-> 微联本地调试 vue 模板
+> 智能硬件设备控制 vue (空调)模板
 
 ## Build Setup
 
@@ -17,9 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-### 微联sdk
 
-**不用引用微联sdk，`npm run build` 的时候会自动引用。**
 
 ### welinkconfig.json
 
