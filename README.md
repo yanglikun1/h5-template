@@ -21,4 +21,6 @@ npm run build --report
 
 ### welinkconfig.json
 
+** `authenticationTokenKey` 参数是动态改变的 需要平台提供**
+
 **不要修改 `staticPath` 参数**
